@@ -13,3 +13,7 @@ Whether it’s a family gathering or a special celebration, biryani always adds 
 1. Nearby Restaurant (easiest to get)
 2. Home-cooked by family (moderate effort)
 3. Special Restaurant (requires travel)
+
+- Raita
+- Mirchi Ka Salan
+- Salad
