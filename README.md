@@ -19,3 +19,18 @@ Whether it’s a family gathering or a special celebration, biryani always adds 
 - Salad
 
 [Check out my favorite movie here](MyMovie.md)
+
+
+
+---
+
+## Alternative Actors for My Favorite Movie
+
+If I had to choose alternative actors for the main role, here are some great options:
+
+| Actor Name       | Reason                   | Age |
+|-----------------|--------------------------|-----|
+| Christian Bale  | Versatile and skilled     | 50  |
+| Tom Hardy       | Intense performance style | 46  |
+| Robert Downey Jr.| Charismatic presence      | 58  |
+| Ryan Gosling    | Emotional depth           | 43  |
