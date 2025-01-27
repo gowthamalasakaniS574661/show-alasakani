@@ -34,3 +34,14 @@ If I had to choose alternative actors for the main role, here are some great opt
 | Tom Hardy       | Intense performance style | 46  |
 | Robert Downey Jr.| Charismatic presence      | 58  |
 | Ryan Gosling    | Emotional depth           | 43  |
+
+
+---
+
+## Favorite Quotes
+
+> "Success is not final, failure is not fatal: It is the courage to continue that counts."  
+> *Winston Churchill*
+
+> "The only way to do great work is to love what you do."  
+> *Steve Jobs*
