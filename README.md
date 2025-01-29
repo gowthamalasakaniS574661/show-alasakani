@@ -45,3 +45,15 @@ If I had to choose alternative actors for the main role, here are some great opt
 
 > "The only way to do great work is to love what you do."  
 > *Steve Jobs*
+
+
+---
+
+## SQL Code Snippet
+
+This snippet demonstrates the SQL **SUM** function, which is used to calculate the total sum of a numeric column.
+
+```sql
+SELECT SUM(column_name)
+FROM table_name
+WHERE condition;
